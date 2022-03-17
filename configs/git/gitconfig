@@ -1,5 +1,3 @@
-[credential "https://github.com"]
-	useHttpPath = true
 [credential]
 	helper = store
 [user]
