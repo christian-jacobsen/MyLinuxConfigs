@@ -1,1 +1,1 @@
-alias hehe="echo 'hehe'"
+alias vim="nvim"
